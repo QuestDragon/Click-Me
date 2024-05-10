@@ -1,0 +1,7 @@
+Click Me!! BattleRoyal について
+
+本アプリケーションの実行環境は次の通り、またはそれ以上である必要があります。
+
+windows10.0.17763.0 またはそれ以上
+
+Microsoft .NET Framework 6.0 以上

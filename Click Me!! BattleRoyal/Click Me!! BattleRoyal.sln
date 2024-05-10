@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Click Me!! BattleRoyal", "Click Me!! BattleRoyal\Click Me!! BattleRoyal.csproj", "{E443CBE9-38C3-4331-86E2-CAC71A1CC990}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClickMe.Sound", "ClickMe.Sound\ClickMe.Sound.csproj", "{FF242E58-1FD3-41CC-9DBA-CCA58341FBA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClickMe.logger", "clickme.logger\ClickMe.logger.csproj", "{EE2924B4-48CA-4544-8136-8737B78DC9D2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClickMe.Temp", "ClickMe.Temp\ClickMe.Temp.csproj", "{8689ED0E-2630-4E9E-A87D-64786F50C57C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClickMe.Tournament", "ClickMe.Tournament\ClickMe.Tournament.csproj", "{4CF436C9-8DEC-4B3F-80F6-A9103BE3A33F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickMe.DiscordRPC", "ClickMe.DiscordRPC\ClickMe.DiscordRPC.csproj", "{D5344529-F5A7-4199-B12C-D55873170E1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E443CBE9-38C3-4331-86E2-CAC71A1CC990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E443CBE9-38C3-4331-86E2-CAC71A1CC990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E443CBE9-38C3-4331-86E2-CAC71A1CC990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E443CBE9-38C3-4331-86E2-CAC71A1CC990}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF242E58-1FD3-41CC-9DBA-CCA58341FBA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF242E58-1FD3-41CC-9DBA-CCA58341FBA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF242E58-1FD3-41CC-9DBA-CCA58341FBA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF242E58-1FD3-41CC-9DBA-CCA58341FBA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE2924B4-48CA-4544-8136-8737B78DC9D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2924B4-48CA-4544-8136-8737B78DC9D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2924B4-48CA-4544-8136-8737B78DC9D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2924B4-48CA-4544-8136-8737B78DC9D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8689ED0E-2630-4E9E-A87D-64786F50C57C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8689ED0E-2630-4E9E-A87D-64786F50C57C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8689ED0E-2630-4E9E-A87D-64786F50C57C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8689ED0E-2630-4E9E-A87D-64786F50C57C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CF436C9-8DEC-4B3F-80F6-A9103BE3A33F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF436C9-8DEC-4B3F-80F6-A9103BE3A33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF436C9-8DEC-4B3F-80F6-A9103BE3A33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF436C9-8DEC-4B3F-80F6-A9103BE3A33F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5344529-F5A7-4199-B12C-D55873170E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5344529-F5A7-4199-B12C-D55873170E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5344529-F5A7-4199-B12C-D55873170E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5344529-F5A7-4199-B12C-D55873170E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A41D106A-DCB7-42AE-8278-26392269B740}
+	EndGlobalSection
+EndGlobal

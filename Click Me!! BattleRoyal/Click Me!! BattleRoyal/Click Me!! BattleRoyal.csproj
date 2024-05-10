@@ -1,0 +1,74 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows10.0.17763.0</TargetFramework>
+    <RootNamespace>Click_Me_BattleRoyal</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>clickme_result.ico</ApplicationIcon>
+    <Copyright>QuestDragon</Copyright>
+    <Description>Click Me!!</Description>
+    <PackageIcon>clickme.jpg</PackageIcon>
+    <Authors>QuestDragon</Authors>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="clickme.jpg" />
+    <None Remove="Resources\HiraMaruProN-W4-AlphaNum-01.otf" />
+    <None Remove="Resources\NotoSansJP-Medium.ttf" />
+    <None Remove="Resources\Venera-700.ttf" />
+    <None Remove="名称未設定 1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="clickme_result.ico" />
+    <Resource Include="Resources\HiraMaruProN-W4-AlphaNum-01.otf" />
+    <Resource Include="Resources\NotoSansJP-Medium.ttf" />
+    <Resource Include="Resources\Venera-700.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\3D Objects\click me!! resource\clickme.jpg">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DiscordRichPresence" Version="1.1.3.18" />
+    <PackageReference Include="naudio" Version="2.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClickMe.DiscordRPC\ClickMe.DiscordRPC.csproj" />
+    <ProjectReference Include="..\clickme.logger\ClickMe.logger.csproj" />
+    <ProjectReference Include="..\ClickMe.Sound\ClickMe.Sound.csproj" />
+    <ProjectReference Include="..\ClickMe.Temp\ClickMe.Temp.csproj" />
+    <ProjectReference Include="..\ClickMe.Tournament\ClickMe.Tournament.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\clickme.jpg" />
+    <Resource Include="images\名称未設定 1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

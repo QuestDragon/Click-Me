@@ -1,0 +1,46 @@
+﻿<Window x:Class="Click_Me_BattleRoyal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Click_Me_BattleRoyal"
+        mc:Ignorable="d"
+        SizeChanged="Window_SizeChanged"
+        Closing="Window_Closing"
+        MouseDown="Window_MouseDown"
+        Title="MainWindow" Height="619.24" Width="800" WindowStartupLocation="CenterScreen" MinWidth="800" MinHeight="619.24">
+    
+    <!--gameページでのフォントサイズによるウィンドウ肥大化をGrid寸法指定で防止する-->
+    <Grid x:Name="this_window">
+        <Frame Name="frame" NavigationUIVisibility="Hidden"/>
+        
+        <Image x:Name="Dev_Bar" Stretch="Fill" VerticalAlignment="Bottom" HorizontalAlignment="Center" Height="5" Margin="100,0,100,-5" Source="/Resources/Warning_Bar.png" Opacity="0.75" />
+        <TextBlock x:Name="Dev_warn" Text="WARNING - THIS IS DEVELOPMENT BUILD" VerticalAlignment="Bottom" TextAlignment="Center" FontFamily="./resources/#Venera 700" HorizontalAlignment="Center" Margin="0,0,0,-20" Foreground="#FFFFC86B" />
+        
+        <Rectangle x:Name="EndFX" Stroke="Black" Fill="Black" Opacity="0" Visibility="Hidden"/>
+        <!--<Rectangle HorizontalAlignment="Center" Fill="Red" Stroke="Red" Visibility="Hidden"/>
+        --><!--中心線-->
+
+        <!--<Label x:Name="res" Content="0x0" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" />-->
+        <!--<Grid >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Border BorderBrush="Red" BorderThickness="1,1,1,1" />
+            <Border BorderBrush="Red" BorderThickness="1,1,1,1" Grid.Column="1"/>
+            <Border BorderBrush="Red" BorderThickness="1,1,1,1" Grid.Column="2"/>
+            <Border BorderBrush="Red" BorderThickness="1,1,1,1" Grid.Column="3"/>
+            <Border BorderBrush="Red" BorderThickness="1,1,1,1" Grid.Column="4"/>
+            <Border BorderBrush="Red" BorderThickness="1,1,1,1" Grid.Column="5"/>
+            <Border BorderBrush="Red" BorderThickness="1,1,1,1" Grid.Column="6"/>
+            <Border BorderBrush="Red" BorderThickness="1,1,1,1" Grid.Column="7"/>
+        </Grid>-->
+    </Grid>
+</Window>
