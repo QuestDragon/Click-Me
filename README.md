@@ -20,7 +20,8 @@ Click Me!!は私が高校時代にプログラミングを学ぶ目的で題材�
 その他の機能は各バージョンによって異なります。
 
 ## 各Click Me!!
-| [Click Me!!]() | [CLICK ME For C Sharp]() | [TAMAGO]() | [Click Me!! BattleRoyal]() |
+| [Click Me!!](https://github.com/QuestDragon/Click-Me/blob/main/README.md#click-me) | [CLICK ME For C Sharp](https://github.com/QuestDragon/Click-Me/blob/main/README.md#click-me-for-c-sharp) | [TAMAGO](
+https://github.com/QuestDragon/Click-Me/blob/main/README.md#tamago) | [Click Me!! BattleRoyal](https://github.com/QuestDragon/Click-Me/blob/main/README.md#click-me-battleroyal) |
 | ------------- | ------------- | ------------- | ------------- | 
 
 ### Click Me!!
