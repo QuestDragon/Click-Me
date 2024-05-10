@@ -1,0 +1,9 @@
+W:\コンピューター部\Visual Studio\CLICK ME For C Sharp\CLICK ME For C Sharp\bin\Debug\CLICK ME For C Sharp.exe.config
+W:\コンピューター部\Visual Studio\CLICK ME For C Sharp\CLICK ME For C Sharp\bin\Debug\CLICK ME For C Sharp.exe
+W:\コンピューター部\Visual Studio\CLICK ME For C Sharp\CLICK ME For C Sharp\bin\Debug\CLICK ME For C Sharp.pdb
+W:\コンピューター部\Visual Studio\CLICK ME For C Sharp\CLICK ME For C Sharp\obj\Debug\CLICK ME For C Sharp.csprojResolveAssemblyReference.cache
+W:\コンピューター部\Visual Studio\CLICK ME For C Sharp\CLICK ME For C Sharp\obj\Debug\CLICK_ME_For_C_Sharp.Form1.resources
+W:\コンピューター部\Visual Studio\CLICK ME For C Sharp\CLICK ME For C Sharp\obj\Debug\CLICK_ME_For_C_Sharp.Properties.Resources.resources
+W:\コンピューター部\Visual Studio\CLICK ME For C Sharp\CLICK ME For C Sharp\obj\Debug\CLICK ME For C Sharp.csproj.GenerateResource.Cache
+W:\コンピューター部\Visual Studio\CLICK ME For C Sharp\CLICK ME For C Sharp\obj\Debug\CLICK ME For C Sharp.exe
+W:\コンピューター部\Visual Studio\CLICK ME For C Sharp\CLICK ME For C Sharp\obj\Debug\CLICK ME For C Sharp.pdb
