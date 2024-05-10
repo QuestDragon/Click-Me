@@ -139,5 +139,13 @@ Click Me!! BattleRoyal のみ、ベータ版を用意しています。
 
 予告なく配布を停止することがあります。予めご了承ください。
 
+### Click Me!! BattleRoyal 音声ファイル提供
+
+- 魔王魂
+- フリー効果音 On-Jin ～音人～
+- BGM・ジングル・効果音のフリー素材｜OtoLogic
+- DOVA-SYNDROME
+- ニコニ・コモンズ
+
 ## 制作者
 QuestDragon
