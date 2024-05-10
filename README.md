@@ -1,5 +1,5 @@
 # Click Me!! - Created By QuestDragon
-_click, Click, CLICK!! PLEEEASE CLICK MEEEEEEEEEE!!!!!_
+_click, Click!, CLICK!! PLEEEASE CLICK MEEEEEEEEEE!!!!!_
 
 ## このシリーズについて
 Click Me!!は私が高校時代にプログラミングを学ぶ目的で題材としたアプリケーションのことをいいます。
