@@ -1,0 +1,13 @@
+W:\コンピューター部\Visual Studio\TAMAGO\TAMAGO\bin\Debug\TAMAGO.exe.config
+W:\コンピューター部\Visual Studio\TAMAGO\TAMAGO\bin\Debug\TAMAGO.exe
+W:\コンピューター部\Visual Studio\TAMAGO\TAMAGO\bin\Debug\TAMAGO.pdb
+W:\コンピューター部\Visual Studio\TAMAGO\TAMAGO\bin\Debug\TAMAGO.xml
+W:\コンピューター部\Visual Studio\TAMAGO\TAMAGO\obj\Debug\TAMAGO.vbprojResolveAssemblyReference.cache
+W:\コンピューター部\Visual Studio\TAMAGO\TAMAGO\obj\Debug\TAMAGO.Dialog1.resources
+W:\コンピューター部\Visual Studio\TAMAGO\TAMAGO\obj\Debug\TAMAGO.Form1.resources
+W:\コンピューター部\Visual Studio\TAMAGO\TAMAGO\obj\Debug\TAMAGO.Form2.resources
+W:\コンピューター部\Visual Studio\TAMAGO\TAMAGO\obj\Debug\TAMAGO.Resources.resources
+W:\コンピューター部\Visual Studio\TAMAGO\TAMAGO\obj\Debug\TAMAGO.vbproj.GenerateResource.Cache
+W:\コンピューター部\Visual Studio\TAMAGO\TAMAGO\obj\Debug\TAMAGO.exe
+W:\コンピューター部\Visual Studio\TAMAGO\TAMAGO\obj\Debug\TAMAGO.xml
+W:\コンピューター部\Visual Studio\TAMAGO\TAMAGO\obj\Debug\TAMAGO.pdb
