@@ -40,7 +40,7 @@ Visual BasicのWindowsフォームアプリケーションで作成されてい�
 「End」ボタンを押し、ダイアログで「はい」を選択するとClick Me!!を終了できます。
 
 #### 配布形態
-「ClickOnce アプリケーション」または「zip圧縮によるポータブルパッケージファイル」にて配布しています。
+「[ClickOnce アプリケーション](https://github.com/QuestDragon/Click-Me/releases/download/CLICK_ME/ClickMe_setup.zip)」または「[zip圧縮によるポータブルパッケージファイル](https://github.com/QuestDragon/Click-Me/releases/download/CLICK_ME/Click_Me.zip)」にて配布しています。
 
 ### CLICK ME For C Sharp
 高校時代にC#を学ぶために初めて作成したアプリケーションです。
@@ -57,7 +57,7 @@ C#のWindowsフォームアプリケーションで作成されています。
 「End」ボタンを押し、ダイアログで「はい」を選択するとCLICK ME For C Sharpを終了できます。
 
 #### 配布形態
-「zip圧縮によるポータブルパッケージファイル」にて配布しています。
+「[zip圧縮によるポータブルパッケージファイル](https://github.com/QuestDragon/Click-Me/releases/download/CLICK_ME_C/CLICK_ME-For_CSharp.zip)」にて配布しています。
 
 ### TAMAGO
 高校時代に作成した、Click Me!!の派生版アプリケーションです。
@@ -84,7 +84,7 @@ Visual BasicのWindowsフォームアプリケーションで作成されてい�
 卵を割ると再び初回起動時と同じ動作に戻ります。（特定のアイテムを入手した場合を除く）
 
 #### 配布形態
-「zip圧縮によるポータブルパッケージファイル」にて配布しています。
+「[zip圧縮によるポータブルパッケージファイル](https://github.com/QuestDragon/Click-Me/releases/download/TAMAGO/TAMAGO.zip)」にて配布しています。
 
 ### Click Me!! BattleRoyal
 ゲームデザインを重視した進化版Click Me!!です。
@@ -130,7 +130,7 @@ Click Me!! BattleRoyal のみ、ベータ版を用意しています。
 安定した動作でのプレイをご希望の場合は、安定版をご使用ください。
 
 #### 配布形態
-安定版は「インストーラー」、ベータ版は「インストーラー」と「zip圧縮によるポータブルパッケージファイル」にて配布しています。
+安定版は「[インストーラー](https://github.com/QuestDragon/Click-Me/releases/download/Click_Me_BR/ClickMeBR_Setup.zip)」、ベータ版は「[インストーラー](https://github.com/QuestDragon/Click-Me/releases/download/Click_Me_BR_BETA/ClickMeBR-beta_Setup.zip)」と「[zip圧縮によるポータブルパッケージファイル](https://github.com/QuestDragon/Click-Me/releases/download/Click_Me_BR_BETA/ClickMeBR_Beta.zip)」にて配布しています。
 
 ## 免責事項
 本アプリケーションを使用したことにより生じた被害に関して、私QuestDragonは一切の責任を負いかねます。自己責任でご使用ください。（詳しくはClick Me!! BattleRoyalインストーラーのEULAをご確認ください。）
